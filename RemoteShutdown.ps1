@@ -1,5 +1,5 @@
 ﻿#
-# Script: rmtServersShutdown.ps1
+# Script: RemoteShutdown.ps1
 # Requirements:  Admin credentials, csv file with DeviceName as header
 # Description:  Remote shut down servers base on csv list 
 #
