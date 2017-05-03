@@ -1,10 +1,10 @@
 # RemoteShutdown
 Script to shudown server(s) remotely
 
-##Requirements:  
+## Requirements:  
 
 Admin credentials, csv file with DeviceName as header
 
-##Description:  
+## Description:  
 
 Remote shut down servers base on a csv list 
